@@ -10,3 +10,6 @@ https://vryzhkova.github.io/mersedes-js/
 
 ### Что сделали:
 - accordion (метод forEach)
+- плавный скролл по ID
+- модальное окно
+- burger-menu
