@@ -13,3 +13,4 @@ https://vryzhkova.github.io/mersedes-js/
 - плавный скролл по ID
 - модальное окно
 - burger-menu
+- отправка данных формы (Get, Post)
